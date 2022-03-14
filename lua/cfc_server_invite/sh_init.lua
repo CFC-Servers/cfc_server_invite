@@ -1,0 +1,3 @@
+CFCServerInvite = {
+    inviteTimeout = 30
+}
